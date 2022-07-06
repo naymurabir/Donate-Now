@@ -12,7 +12,7 @@
     font-weight: bold;
     text-align: center;
     font-size: 50px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "Inter", sans-serif;
 }
 
 .paragraph {
@@ -20,7 +20,7 @@
     font-weight: bold;
     text-align: center;
     font-size: 20px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: "Poppins"
 }
 
 .donate-now {
@@ -46,7 +46,7 @@
     font-weight: bold;
     text-align: center;
     font-size: 40px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "Inter", sans-serif;
 }
 
 .doante-paragraph {
@@ -54,7 +54,7 @@
     font-weight: bold;
     text-align: center;
     font-size: 20px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: "Poppins"
 }
 
 .doante-amount {
@@ -81,4 +81,34 @@
 
 #border-200tk {
     border: 3px solid #FF5959;
+}
+
+.other-amount {
+
+    width: 765px;
+    height: 0px;
+    border: 1px solid #dadada;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.others-taka {
+    text-align: center;
+    color: #707070;
+}
+
+.donate-us {
+    text-decoration: none;
+    text-align: center;
+    padding: 15px 30px;
+    background-color: #FF5959;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.donate-now-center {
+    text-align: center;
 }
