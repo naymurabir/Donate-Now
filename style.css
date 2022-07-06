@@ -140,7 +140,7 @@
     display: flex;
 }
 
-.service-box1 {
+.box-1 {
     width: 360px;
     border-radius: 5px;
     text-align: start;
@@ -150,7 +150,9 @@
     background: #EDF5F6;
 }
 
-.service-box2 {
+
+
+.box-2 {
     width: 360px;
     border-radius: 5px;
     text-align: start;
@@ -160,7 +162,7 @@
     background: #FFEEEE;
 }
 
-.service-box3 {
+.box-3 {
     width: 360px;
     border-radius: 5px;
     text-align: start;
@@ -170,12 +172,9 @@
     background: #FFF4D6;
 }
 
-.service-box1 img {
-    width: 60px;
-    margin-bottom: 30px;
-}
 
-.service-box1-h2 {
+
+.box1-h2 {
     font-family: "Poppins";
     font-style: normal;
     font-weight: 600;
@@ -185,7 +184,7 @@
     margin-bottom: 16px;
 }
 
-.service-box-para {
+.box-para {
     font-family: "Poppins";
     font-style: normal;
     font-weight: 400;
