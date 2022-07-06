@@ -1,9 +1,10 @@
 .titile-page {
-    background-image: url("images/donation9.jpg");
+    background-image: url("images/donate.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     padding: 250px;
     text-align: center;
+
 
 }
 
@@ -20,7 +21,7 @@
     font-weight: bold;
     text-align: center;
     font-size: 20px;
-    font-family: "Poppins"
+    font-family: "Inter", sans-serif;
 }
 
 .donate-now {
@@ -138,10 +139,12 @@
 
 .service-container {
     display: flex;
+    margin-left: 200px;
 }
 
 .box-1 {
-    width: 360px;
+    width: 250px;
+    height: 250px;
     border-radius: 5px;
     text-align: start;
     padding: 65px 25px;
@@ -153,7 +156,8 @@
 
 
 .box-2 {
-    width: 360px;
+    width: 250px;
+    height: 250px;
     border-radius: 5px;
     text-align: start;
     padding: 65px 25px;
@@ -163,7 +167,8 @@
 }
 
 .box-3 {
-    width: 360px;
+    width: 250px;
+    height: 250px;
     border-radius: 5px;
     text-align: start;
     padding: 65px 25px;
