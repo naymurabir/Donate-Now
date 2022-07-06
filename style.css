@@ -1,8 +1,9 @@
 .titile-page {
-    background-image: url("images/flood.jpg");
+    background-image: url("images/donation9.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 280px;
+    padding: 250px;
+    text-align: center;
 
 }
 
@@ -25,10 +26,13 @@
 .donate-now {
     text-decoration: none;
     text-align: center;
-    padding: 10px 40px;
+    padding: 15px 30px;
     background-image: linear-gradient(orange, tomato);
     border-radius: 5px;
     color: white;
     font-weight: bold;
+    font-size: 20px;
+
+
 
 }
