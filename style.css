@@ -112,3 +112,83 @@
 .donate-now-center {
     text-align: center;
 }
+
+.plan-page {
+    padding: 50px;
+    text-align: center;
+    margin-bottom: -20px;
+}
+
+.plan-title {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Inter", sans-serif;
+}
+
+.doante-para {
+    color: #9E9E9E;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    font-family: "Poppins"
+}
+
+
+.service-container {
+    display: flex;
+}
+
+.service-box1 {
+    width: 360px;
+    border-radius: 5px;
+    text-align: start;
+    padding: 65px 25px;
+    margin-right: 25px;
+    transition: all 0.3s ease-in-out;
+    background: #EDF5F6;
+}
+
+.service-box2 {
+    width: 360px;
+    border-radius: 5px;
+    text-align: start;
+    padding: 65px 25px;
+    margin-right: 25px;
+    transition: all 0.3s ease-in-out;
+    background: #FFEEEE;
+}
+
+.service-box3 {
+    width: 360px;
+    border-radius: 5px;
+    text-align: start;
+    padding: 65px 25px;
+    margin-right: 25px;
+    transition: all 0.3s ease-in-out;
+    background: #FFF4D6;
+}
+
+.service-box1 img {
+    width: 60px;
+    margin-bottom: 30px;
+}
+
+.service-box1-h2 {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    color: #121212;
+    margin-bottom: 16px;
+}
+
+.service-box-para {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #868383
+}
